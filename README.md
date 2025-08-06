@@ -1,4 +1,4 @@
-# 🎰 Slots Game (Console-Based) — Python
+# 🎰 Slots Game (Console-Based)
 
 Simple console-based slots game written in Python
 
